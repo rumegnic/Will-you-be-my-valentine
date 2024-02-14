@@ -23,5 +23,3 @@ pnpm run dev
 ```
 pnpm run deploy
 ```
-
-Made with love in Berlin!❤️
